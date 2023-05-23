@@ -4,7 +4,7 @@ from database import users, vacancies, loaded_vacancies_embeddings, loaded_user_
 import openai
 import os
 from dotenv import load_dotenv, find_dotenv
-_ = load_dotenv(find_dotenv(filename='.envv'))
+_ = load_dotenv()
 
 
 openai.api_key = os.getenv('OPENAI_API_KEY')
