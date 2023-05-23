@@ -1,0 +1,5 @@
+.env/
+__pycache__/
+generatinginitialEmbedds.ipynb
+data/Results_recomendations.xlsx
+.github/
