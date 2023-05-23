@@ -40,4 +40,4 @@ python main.py
 Once the application is running, you can make a **`GET`** request to **`/recommendations/{user_id}`**  to get recommendations for a user, or you can make a **`POST`** request to **`/create/user/`** to create a new user and get recommendations for them.
 ## System deployment with Azure:
 
-[Hunty recommendation API](https://huntyappreco.azurewebsites.net/docs)
+[Hunty recommendation API](https://huntyappreco.azurewebsites.net/docs) 
